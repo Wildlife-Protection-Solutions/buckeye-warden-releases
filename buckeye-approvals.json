@@ -1,0 +1,15 @@
+{
+ "firmware": [],
+ "format": 1,
+ "issued": "2026-11-16T01:16:39Z",
+ "kind": "buckeye-approvals",
+ "paused": false,
+ "rings": {
+  "pilot": [],
+  "test": [
+   "B8301FE5"
+  ]
+ },
+ "serial": 1,
+ "software": []
+}
