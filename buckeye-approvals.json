@@ -155,10 +155,22 @@
    "size": 149988,
    "url": "https://downloads.buckeyecam.com/updates/xcatalog/feeder_2.5.1.x7dup",
    "version": "2.5.1"
+  },
+  {
+   "approved": "2026-11-17T23:09:32Z",
+   "file": "x80remoteflash_1.0.5.x80update",
+   "hwid": "82",
+   "minbase": "2.2.100",
+   "mode": "auto",
+   "ring": "all",
+   "sha256": "e1d0a3e4eaf108dbf97f0b84d9a5b7c7dd1c023a7dbc7fe967afd0f0f1df51b2",
+   "size": 159340,
+   "url": "https://downloads.buckeyecam.com/updates/xcatalog/x80remoteflash_1.0.5.x80update",
+   "version": "1.0.5"
   }
  ],
  "format": 1,
- "issued": "2026-11-17T23:08:45Z",
+ "issued": "2026-11-17T23:09:32Z",
  "kind": "buckeye-approvals",
  "paused": false,
  "rings": {
@@ -167,7 +179,7 @@
    "B8301FE5"
   ]
  },
- "serial": 18,
+ "serial": 19,
  "software": [
   {
    "approved": "2026-11-16T20:19:22Z",
