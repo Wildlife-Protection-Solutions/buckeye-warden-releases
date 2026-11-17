@@ -11,10 +11,22 @@
    "size": 174684,
    "url": "https://downloads.buckeyecam.com/updates/xcatalog/thermalcam_1.0.3.x80up",
    "version": "1.0.3"
+  },
+  {
+   "approved": "2026-11-17T22:53:30Z",
+   "file": "update_4.7.17.x7dup",
+   "hwid": "125",
+   "minbase": "2.2.100",
+   "mode": "auto",
+   "ring": "all",
+   "sha256": "f948169600406e61dbde3fb65758f0b80a7c1d09d9e9544157e17da9de97f5c0",
+   "size": 4921344,
+   "url": "https://downloads.buckeyecam.com/updates/xcatalog/update_4.7.17.x7dup",
+   "version": "4.7.17"
   }
  ],
  "format": 1,
- "issued": "2026-11-17T22:52:48Z",
+ "issued": "2026-11-17T22:53:30Z",
  "kind": "buckeye-approvals",
  "paused": false,
  "rings": {
@@ -23,7 +35,7 @@
    "B8301FE5"
   ]
  },
- "serial": 6,
+ "serial": 7,
  "software": [
   {
    "approved": "2026-11-16T20:19:22Z",
