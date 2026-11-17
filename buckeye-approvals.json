@@ -131,10 +131,22 @@
    "size": 172668,
    "url": "https://downloads.buckeyecam.com/updates/xcatalog/x80echo_1.1.17.x80up",
    "version": "1.1.17"
+  },
+  {
+   "approved": "2026-11-17T23:07:15Z",
+   "file": "activator_2.5.1.x7dup",
+   "hwid": "65",
+   "minbase": "2.2.100",
+   "mode": "auto",
+   "ring": "all",
+   "sha256": "462a60e4629682545e000b117fae08ba20296a241e352adc6c88d342ee5fc5d4",
+   "size": 142488,
+   "url": "https://downloads.buckeyecam.com/updates/xcatalog/activator_2.5.1.x7dup",
+   "version": "2.5.1"
   }
  ],
  "format": 1,
- "issued": "2026-11-17T23:06:44Z",
+ "issued": "2026-11-17T23:07:15Z",
  "kind": "buckeye-approvals",
  "paused": false,
  "rings": {
@@ -143,7 +155,7 @@
    "B8301FE5"
   ]
  },
- "serial": 16,
+ "serial": 17,
  "software": [
   {
    "approved": "2026-11-16T20:19:22Z",
