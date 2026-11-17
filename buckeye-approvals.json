@@ -14,7 +14,7 @@
   }
  ],
  "format": 1,
- "issued": "2026-11-17T21:17:11Z",
+ "issued": "2026-11-17T22:52:06Z",
  "kind": "buckeye-approvals",
  "paused": false,
  "rings": {
@@ -23,7 +23,7 @@
    "B8301FE5"
   ]
  },
- "serial": 4,
+ "serial": 5,
  "software": [
   {
    "approved": "2026-11-16T20:19:22Z",
@@ -34,6 +34,17 @@
    "sha256": "98d35ed73c40474081d54311184e11667871cea6c07a62d22001fe6778357cbe",
    "size": 22854753,
    "url": "https://downloads.buckeyecam.com/main/Files/mbse-16.5-armv7hl.tbz",
+   "version": "16.5"
+  },
+  {
+   "approved": "2026-11-17T22:52:06Z",
+   "arch": "aarch64",
+   "file": "mbse-16.5-aarch64.tbz",
+   "mode": "auto",
+   "ring": "all",
+   "sha256": "0bb25e1f20d36ccd71f01aecb98d4eb90a3bb21df1c4a045830c6950cc3b0cf4",
+   "size": 21491139,
+   "url": "https://downloads.buckeyecam.com/getfile.php?file=mbse-latest-aarch64.tbz",
    "version": "16.5"
   }
  ],
