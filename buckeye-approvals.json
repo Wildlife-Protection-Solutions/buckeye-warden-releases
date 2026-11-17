@@ -1,12 +1,12 @@
 {
  "firmware": [
   {
-   "approved": "2026-11-17T04:50:36Z",
+   "approved": "2026-11-17T22:52:48Z",
    "file": "thermalcam_1.0.3.x80up",
    "hwid": "80",
    "minbase": "2.2.100",
-   "mode": "offer",
-   "ring": "test",
+   "mode": "auto",
+   "ring": "all",
    "sha256": "3f19a39c548b31c0339197504e718054518f6dc9df4732f5b693994561f610a8",
    "size": 174684,
    "url": "https://downloads.buckeyecam.com/updates/xcatalog/thermalcam_1.0.3.x80up",
@@ -14,7 +14,7 @@
   }
  ],
  "format": 1,
- "issued": "2026-11-17T22:52:06Z",
+ "issued": "2026-11-17T22:52:48Z",
  "kind": "buckeye-approvals",
  "paused": false,
  "rings": {
@@ -23,7 +23,7 @@
    "B8301FE5"
   ]
  },
- "serial": 5,
+ "serial": 6,
  "software": [
   {
    "approved": "2026-11-16T20:19:22Z",
