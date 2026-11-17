@@ -23,10 +23,22 @@
    "size": 4921344,
    "url": "https://downloads.buckeyecam.com/updates/xcatalog/update_4.7.17.x7dup",
    "version": "4.7.17"
+  },
+  {
+   "approved": "2026-11-17T23:02:20Z",
+   "file": "update_4.7.19.x7dup",
+   "hwid": "125",
+   "minbase": "2.2.100",
+   "mode": "auto",
+   "ring": "test",
+   "sha256": "42f472e09d7d5e1b4dbf2cd4d7eae86973bbbc1e64d6788bb5b8623a97690531",
+   "size": 4925440,
+   "url": "https://downloads.buckeyecam.com/updates/xcatalog/update_4.7.19.x7dup",
+   "version": "4.7.19"
   }
  ],
  "format": 1,
- "issued": "2026-11-17T22:53:30Z",
+ "issued": "2026-11-17T23:02:20Z",
  "kind": "buckeye-approvals",
  "paused": false,
  "rings": {
@@ -35,7 +47,7 @@
    "B8301FE5"
   ]
  },
- "serial": 7,
+ "serial": 8,
  "software": [
   {
    "approved": "2026-11-16T20:19:22Z",
