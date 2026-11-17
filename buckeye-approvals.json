@@ -14,7 +14,7 @@
   }
  ],
  "format": 1,
- "issued": "2026-11-17T04:50:36Z",
+ "issued": "2026-11-17T21:17:11Z",
  "kind": "buckeye-approvals",
  "paused": false,
  "rings": {
@@ -23,7 +23,7 @@
    "B8301FE5"
   ]
  },
- "serial": 3,
+ "serial": 4,
  "software": [
   {
    "approved": "2026-11-16T20:19:22Z",
@@ -35,6 +35,14 @@
    "size": 22854753,
    "url": "https://downloads.buckeyecam.com/main/Files/mbse-16.5-armv7hl.tbz",
    "version": "16.5"
+  }
+ ],
+ "watchdog": [
+  {
+   "approved": "2026-11-17T21:17:11Z",
+   "mode": "auto",
+   "ring": "all",
+   "version": "2.2.0"
   }
  ]
 }
