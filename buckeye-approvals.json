@@ -143,10 +143,22 @@
    "size": 142488,
    "url": "https://downloads.buckeyecam.com/updates/xcatalog/activator_2.5.1.x7dup",
    "version": "2.5.1"
+  },
+  {
+   "approved": "2026-11-17T23:08:45Z",
+   "file": "feeder_2.5.1.x7dup",
+   "hwid": "70",
+   "minbase": "2.2.100",
+   "mode": "auto",
+   "ring": "all",
+   "sha256": "1d3738ffd9084d4b15abb3e80b6c9a980d2466c94d904e3b521a41cf8b8b350b",
+   "size": 149988,
+   "url": "https://downloads.buckeyecam.com/updates/xcatalog/feeder_2.5.1.x7dup",
+   "version": "2.5.1"
   }
  ],
  "format": 1,
- "issued": "2026-11-17T23:07:15Z",
+ "issued": "2026-11-17T23:08:45Z",
  "kind": "buckeye-approvals",
  "paused": false,
  "rings": {
@@ -155,7 +167,7 @@
    "B8301FE5"
   ]
  },
- "serial": 17,
+ "serial": 18,
  "software": [
   {
    "approved": "2026-11-16T20:19:22Z",
