@@ -170,7 +170,7 @@
   }
  ],
  "format": 1,
- "issued": "2026-11-19T16:50:16Z",
+ "issued": "2026-11-19T17:27:59Z",
  "kind": "buckeye-approvals",
  "paused": false,
  "rings": {
@@ -180,7 +180,7 @@
    "B8302244"
   ]
  },
- "serial": 26,
+ "serial": 27,
  "software": [
   {
    "approved": "2026-11-17T22:52:06Z",
@@ -213,10 +213,10 @@
    "version": "2.2.0"
   },
   {
-   "approved": "2026-11-19T16:50:16Z",
+   "approved": "2026-11-19T17:27:59Z",
    "mode": "auto",
    "ring": "test",
-   "version": "2.3.4"
+   "version": "2.3.5"
   }
  ]
 }
