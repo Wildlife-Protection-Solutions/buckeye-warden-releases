@@ -170,16 +170,17 @@
   }
  ],
  "format": 1,
- "issued": "2026-11-19T15:23:48Z",
+ "issued": "2026-11-19T15:25:03Z",
  "kind": "buckeye-approvals",
  "paused": false,
  "rings": {
   "pilot": [],
   "test": [
-   "B8301FE5"
+   "B8301FE5",
+   "B8302244"
   ]
  },
- "serial": 24,
+ "serial": 25,
  "software": [
   {
    "approved": "2026-11-17T22:52:06Z",
