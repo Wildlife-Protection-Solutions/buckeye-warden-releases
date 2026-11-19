@@ -170,7 +170,7 @@
   }
  ],
  "format": 1,
- "issued": "2026-11-19T04:03:28Z",
+ "issued": "2026-11-19T15:23:48Z",
  "kind": "buckeye-approvals",
  "paused": false,
  "rings": {
@@ -179,7 +179,7 @@
    "B8301FE5"
   ]
  },
- "serial": 23,
+ "serial": 24,
  "software": [
   {
    "approved": "2026-11-17T22:52:06Z",
@@ -212,10 +212,10 @@
    "version": "2.2.0"
   },
   {
-   "approved": "2026-11-19T04:03:28Z",
+   "approved": "2026-11-19T15:23:48Z",
    "mode": "auto",
    "ring": "test",
-   "version": "2.3.2"
+   "version": "2.3.3"
   }
  ]
 }
