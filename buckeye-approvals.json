@@ -170,7 +170,7 @@
   }
  ],
  "format": 1,
- "issued": "2026-11-19T17:27:59Z",
+ "issued": "2026-11-19T17:41:56Z",
  "kind": "buckeye-approvals",
  "paused": false,
  "rings": {
@@ -180,7 +180,7 @@
    "B8302244"
   ]
  },
- "serial": 27,
+ "serial": 28,
  "software": [
   {
    "approved": "2026-11-17T22:52:06Z",
@@ -207,15 +207,15 @@
  ],
  "watchdog": [
   {
-   "approved": "2026-11-17T21:17:11Z",
-   "mode": "auto",
-   "ring": "all",
-   "version": "2.2.0"
-  },
-  {
    "approved": "2026-11-19T17:27:59Z",
    "mode": "auto",
    "ring": "test",
+   "version": "2.3.5"
+  },
+  {
+   "approved": "2026-11-19T17:41:56Z",
+   "mode": "auto",
+   "ring": "all",
    "version": "2.3.5"
   }
  ]
